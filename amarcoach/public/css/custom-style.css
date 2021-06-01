@@ -1,0 +1,33 @@
+
+.immi-slider-block {
+    margin-right: 5px;
+}
+.immi-slider-block .view-heading a{color:#fff}
+.bg-blue-gray{
+    background:#2C3E50 !important;
+  }
+
+.bg-white{
+    background: #fff;
+}
+.bg-green{
+    background: #2B683F;
+}
+.text-white{
+    color:#fff;
+}
+.details-text p {
+    font-size: 15px;
+}
+.text-white a{color:#fff;}
+.icon-circle {
+    padding: 3px 3px;
+    background: #2195F3;
+    color: #fff;
+    border-radius: 50%;
+    font-size: 9px;
+}
+.browse-cat-text {
+    font-size: 12px;
+    padding: 2px 4px;
+}
